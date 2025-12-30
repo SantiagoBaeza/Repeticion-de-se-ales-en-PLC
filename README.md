@@ -1,3 +1,4 @@
+[⬅️ Volver a "Proyectos con PLC"](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
 # Repetición de señales en PLC – Error común y su demostración
 
 Este proyecto muestra un error típico en programación de PLCs: **la repetición de bobinas de salida** en distintos segmentos. A través de una simulación sencilla, se evidencia por qué esta práctica está prohibida y cómo puede generar resultados engañosos.
