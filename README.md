@@ -18,7 +18,7 @@ Durante el curso de programación en escalera, se propuso un esquema de enclavam
 - **Captura 03**: Resultado final, donde se observa que `motor3` no está encendido en el segundo segmento.
   ![Simulcion3](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/blob/main/03.jpg)
 
-## Lección clave
+## Lección importante
 
 > Nunca se deben repetir bobinas de salida en distintos segmentos.  
 > Aunque parezca funcionar, el PLC ignora la segunda instancia, generando errores silenciosos y mala práctica profesional.
