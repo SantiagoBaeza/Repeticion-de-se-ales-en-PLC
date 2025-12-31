@@ -1,5 +1,5 @@
 [⬅️ Volver a "Proyectos con PLC"](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
-# Repetición de señales en PLC – Error común y su demostración
+# Repetición de bobinas de salida en PLC – Error común en LAD
 
 Este proyecto muestra un error típico en programación de PLCs: **la repetición de bobinas de salida** en distintos segmentos. A través de una simulación sencilla, se evidencia por qué esta práctica está prohibida y cómo puede generar resultados engañosos.
 
@@ -22,6 +22,7 @@ Durante el curso de programación en escalera, se propuso un esquema de enclavam
 
 > Nunca se deben repetir bobinas de salida en distintos segmentos.  
 > Aunque parezca funcionar, el PLC ignora la segunda instancia, generando errores silenciosos y mala práctica profesional.
+> El PLC evalúa la lógica de izquierda a derecha y la última asignación de la bobina sobrescribe el estado anterior, por lo que la repetición genera resultados inconsistentes.
 
 ## Simulación realizada en
 
