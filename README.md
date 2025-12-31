@@ -11,7 +11,7 @@ Durante el curso de programación en escalera, se propuso un esquema de enclavam
 
 ## Capturas
 
-- **Captura 01**: Esquema sin simular.
+- **Captura 01**: Comienzo de la simulación.
   ![Simulcion1](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/blob/main/01%20.jpg)
 - **Captura 02**: Circuito energizado, a punto de forzar el botón de inicio.
   ![Simulcion2](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/blob/main/02.jpg)
