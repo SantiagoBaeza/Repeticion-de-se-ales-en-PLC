@@ -29,7 +29,7 @@ Durante el curso de programación en escalera, se propuso un esquema de enclavam
 - Lógica en escalera (LAD)
 
 ## Comentarios finales: 
-El [archivo](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/09%20Project.ap16) del proyecto se incluye para que cualquier persona con acceso a TIA Portal V16 pueda abrirlo y realizar la simulación. En mi caso, el software fue proporcionado como parte del curso de Udemy que estoy realizando. Este ejercicio tiene como objetivo servir de práctica y dejar registro de mis avances en programación de PLC.
+El [archivo](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/blob/main/04%20repeticion%20de%20se%C3%B1ales%20(no%20hacer).ap16) del proyecto se incluye para que cualquier persona con acceso a TIA Portal V16 pueda abrirlo y realizar la simulación. En mi caso, el software fue proporcionado como parte del curso de Udemy que estoy realizando. Este ejercicio tiene como objetivo servir de práctica y dejar registro de mis avances en programación de PLC.
 
 ---
 
