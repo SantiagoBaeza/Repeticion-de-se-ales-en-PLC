@@ -9,7 +9,7 @@ Este proyecto muestra un error típico en programación de PLCs: **la repetició
 
 Durante el curso de programación en escalera, se propuso un esquema de enclavamiento con dos motores. Se añadió una segunda bobina de salida (`motor3 - %M1.2`) en el mismo segmento donde ya estaba `motor2`, y luego se repitió `motor3` en un segundo segmento. Aunque la simulación inicial parece funcionar, el segundo segmento revela que `motor3` **no se energiza realmente**, demostrando el error.
 
-## 📸 Capturas
+## Capturas
 
 - **Captura 01**: Esquema sin simular.
   ![Simulcion1](https://github.com/SantiagoBaeza/Repeticion-de-se-ales-en-PLC/blob/main/01%20.jpg)
@@ -27,6 +27,9 @@ Durante el curso de programación en escalera, se propuso un esquema de enclavam
 
 - Siemens S7-1200 (TIA Portal)
 - Lógica en escalera (LAD)
+
+## Comentarios finales: 
+El [archivo](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/09%20Project.ap16) del proyecto se incluye para que cualquier persona con acceso a TIA Portal V16 pueda abrirlo y realizar la simulación. En mi caso, el software fue proporcionado como parte del curso de Udemy que estoy realizando. Este ejercicio tiene como objetivo servir de práctica y dejar registro de mis avances en programación de PLC.
 
 ---
 
