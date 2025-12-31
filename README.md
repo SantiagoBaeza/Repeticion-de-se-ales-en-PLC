@@ -12,8 +12,11 @@ Durante el curso de programación en escalera, se propuso un esquema de enclavam
 ## 📸 Capturas
 
 - **Captura 01**: Esquema sin simular.
+  ![Simulcion1](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/07%20boton%20sin%20presionar%20de%20vuelta%20.jpg)
 - **Captura 02**: Circuito energizado, a punto de forzar el botón de inicio.
+  ![Simulcion2](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/07%20boton%20sin%20presionar%20de%20vuelta%20.jpg)
 - **Captura 03**: Resultado final, donde se observa que `motor3` no está encendido en el segundo segmento.
+  ![Simulcion3](https://github.com/SantiagoBaeza/Enclavamiento-de-motor-simulacion-/blob/main/07%20boton%20sin%20presionar%20de%20vuelta%20.jpg)
 
 ## Lección clave
 
