@@ -1,4 +1,4 @@
-[⬅️ Volver a "Proyectos con PLC"](https://github.com/SantiagoBaeza/PLC-Siemens-TIA-Portal-)
+[⬅️ Volver a "Conceptos de Ladder"](https://github.com/SantiagoBaeza/Conceptos-importantes-de-Ladder/tree/main)
 # Repetición de bobinas de salida en PLC – Error común en LAD
 
 Este proyecto muestra un error típico en programación de PLCs: **la repetición de bobinas de salida** en distintos segmentos. A través de una simulación sencilla, se evidencia por qué esta práctica está prohibida y cómo puede generar resultados engañosos.
